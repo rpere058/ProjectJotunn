@@ -1,4 +1,4 @@
-ProjectJotunn
-=============
+ProjectJotunn-R1
+================
 
-out-of-order processor in verilog
+Simple LC3 Implementation in Verilog
